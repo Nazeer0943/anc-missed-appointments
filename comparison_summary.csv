@@ -1,0 +1,11 @@
+variable,highest_missed_group,highest_missed_percent,lowest_missed_group,lowest_missed_percent
+residence,Rural,64.17,Urban,56.51
+education_level,Primary,63.66,No formal education,58.1
+employment_status,Student,65.52,Unemployed,57.25
+parity,4,62.2,5,55.24
+health_insurance,No,62.55,Yes,55.27
+partner_support,Low/None,64.19,High,56.99
+phone_access,No reliable phone,74.45,Shared phone,58.7
+appointment_type,Follow-up,61.7,High-risk review,55.48
+barrier_reported_at_booking,Long waiting time,64.83,Feeling unwell,58.97
+previous_missed_appointments,3,79.31,0,55.61
