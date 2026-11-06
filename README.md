@@ -2,7 +2,8 @@
 
 **Capstone Project | eHealth Africa (eHA) First Data Science Cohort — Group 2**
 
-**Live Application:** [ANC Missed Appointments Dashboard](https://anc-missed-appointments-huc5petjhmw4zst6s8ae3y.streamlit.app/)
+**Live Application:** <a href=https://anc-missed-appointments-huc5petjhmw4zst6s8ae3y.streamlit.app/ target="_blank">ANC Missed Appointments Dashboard</a> <br />
+**Project Slide:** <a href= "https://docs.google.com/presentation/d/1yScVlJ3MSmToZw21XSjMdjKrl1Tbpb-zeiWj0FnIxeY/edit?slide=id.p1#slide=id.p1" target="_blank">Click Here</a>
 
 ## 1. Project Overview
 
